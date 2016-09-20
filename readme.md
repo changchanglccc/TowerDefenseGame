@@ -1,3 +1,6 @@
+# Team project
+- [x]  This is a team project,i developed it with another three coders.
+
 # Map creation and editing
 - [x]  User-driven interactive creation of a map as a grid of user-defined dimension with grid elements such as scenery, path, entry point and exit point. Saving/loading/editing/verification of an edited map.
 
