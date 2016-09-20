@@ -1,0 +1,10 @@
+/bin/
+.project
+.classpath
+.settings/
+/bin1/
+/bin11/
+.DS_Store
+.idea/
+6441GameProject.iml
+out/production/
